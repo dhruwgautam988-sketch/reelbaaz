@@ -8,7 +8,7 @@
       "package": "com.gautamclash123.reelbaaz",
       "versionCode": 3
     },
-    "platforms": ["android"],
+    "platforms": ["android","web"],
     "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/01b9f415-23ae-4363-914d-5786ba8535a0",
