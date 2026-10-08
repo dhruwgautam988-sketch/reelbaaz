@@ -1,0 +1,24 @@
+﻿{
+  "expo": {
+    "name": "reelbaaz",
+    "slug": "reelbaaz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.gautamclash123.reelbaaz",
+      "versionCode": 3
+    },
+    "platforms": ["android"],
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/01b9f415-23ae-4363-914d-5786ba8535a0",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01b9f415-23ae-4363-914d-5786ba8535a0"
+      }
+    }
+  }
+}
